@@ -12,5 +12,5 @@ The following scripts are included:
 - rmspe_ratios.R computes inference via RMSPE ratios
 - loo_test.R performs leave-one-out sensitivity tests for the results
 
-*Note*: The analysis can be performed for CPI at constant taxes (via 26_month_HICP_CT.csv) or varying taxes (via 26_month_HICP.csv) depending on whether variable CT=TRUE or CT=FALSE, respectively in each of the scripts. The results and the workspaces folders contain files with and without the suffix "CT", which corresond to whether they were produced for CPI at constant taxes or not. **To replicate the results from the paper, set CT=TRUE.**
+*Note*: The analysis can be performed for CPI at constant taxes (via 26_month_HICP_CT.csv) or variable taxes (via 26_month_HICP.csv) depending on whether variable CT=TRUE or CT=FALSE, respectively in each of the scripts. The results and the workspaces folders contain files with and without the suffix "CT", which corresond to whether they were produced for CPI at constant taxes or not. **To replicate the results from the paper, set CT=TRUE.**
       
