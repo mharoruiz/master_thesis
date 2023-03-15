@@ -2,7 +2,7 @@
 
 This repository contains the replication files for my master's thesis. 
 
-The following folders are included
+The following folders are included:
 - data/ contains .csv files to perform the analysis
 - functions/ includes a function to compute synthetic controls 
 - workspaces/ contains .RData files with all resulting variables after running each scrip
