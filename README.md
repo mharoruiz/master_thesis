@@ -1,14 +1,14 @@
 ## master_thesis
 
-This repository contains the replication files for my master's thesis. 
+This repository contains the replication for "Estimating the effect of the Iberian exception mechanism on different CPI categories for Spain and Portugal." It is advice that you take a look at the paper (see HaroRuiz.pdf) before you try to replicate the resutls. 
 
-The following folders are included:
-- results/ includes .csv files created after running the scripts
-- workspaces/ contains .RData files with all resulting variables after running each script
-- data/ includes .csv files to perform the analysis
-- functions/ contains a function to compute synthetic controls 
-
-The following scripts are included:
+The repository contains the following:
+**Files**: 
+- results/ with .csv files created after running the scripts
+- workspaces/ wiht .RData files with all resulting variables after running each script
+- data/ with .csv files to perform the analysis
+- functions/ wiht a function to compute synthetic controls 
+**Scripts**:
 - trends_inference.R computes synthetic controls and inference via *iid* and *mb permutations*
 - rmspe_ratios.R computes inference via *RMSPE ratios*
 - loo_test.R performs leave-one-out sensitivity tests for the results
