@@ -1,4 +1,4 @@
-##Estimating the effect of the Iberian exception mechanism on different CPI categories for Spain and Portugal.
+## Estimating the effect of the Iberian exception mechanism on different CPI categories for Spain and Portugal.
 
 This repository contains the replication for "Estimating the effect of the Iberian exception mechanism on different CPI categories for Spain and Portugal." It is adviced that you take a look at the paper before you try to replicate the resutls (see *HaroRuiz.pdf*). 
 
