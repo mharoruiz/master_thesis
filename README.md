@@ -2,7 +2,7 @@
 
 This repository contains the replication for "Estimating the effect of the Iberian exception mechanism on different CPI categories for Spain and Portugal." It is advice that you take a look at the paper (see HaroRuiz.pdf) before you try to replicate the resutls. 
 
-The following items are included
+The following items are included;
 
 **Files**: 
 - results/ with .csv files created after running the scripts
