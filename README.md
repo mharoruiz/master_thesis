@@ -1,6 +1,6 @@
 ## Estimating the effect of the Iberian exception mechanism on different CPI categories for Spain and Portugal.
 
-This repository contains the replication for "Estimating the effect of the Iberian exception mechanism on different CPI categories for Spain and Portugal." It is adviced that you take a look at the paper before you try to replicate the resutls (see *HaroRuiz2023.pdf*). 
+This repository contains the replication for "Estimating the effect of the Iberian exception mechanism on different inflation categories for Spain and Portugal." It is adviced that you take a look at the paper before you try to replicate the resutls (see *HaroRuiz2023.pdf*). 
 
 The following items are included;
 
@@ -15,5 +15,5 @@ The following items are included;
 - *rmspe_ratios.R* conducts inference via *RMSPE ratios*
 - *loo_test.R* performs leave-one-out sensitivity tests
 
-*Note*: The analysis can be performed for CPI at constant depending on whether variable CT is set to TRUE or FALSE in each of the scripts. The results/ and the workspaces/ folders contain files with and without the suffix "CT", which corresonds to whether they were produced via CPI data at constant taxes or not. **To replicate the results from the paper, set CT=TRUE.**
+*Note*: The analysis can be performed for CPI at constant depending on whether variable CT is set to TRUE or FALSE in each of the scripts. The *results/* and the *workspaces/* folders contain files with and without the suffix "CT", which corresonds to whether they were produced via CPI data at constant taxes or not. **To replicate the results from the paper, set CT=TRUE.**
       
