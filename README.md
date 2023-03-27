@@ -1,6 +1,6 @@
-## Estimating the effect of the Iberian exception mechanism on different inflation categories for Spain and Portugal.
+## Estimating the effect of the Iberian exception mechanism on different inflation categories for Spain and Portugal
 
-This repository contains the replication data and code for "Estimating the effect of the Iberian exception mechanism on different inflation categories for Spain and Portugal." It is advised that you take a look at the paper before you try to replicate the resutls (see *HaroRuiz2023.pdf*). 
+This repository contains replication data and scripts for "Estimating the effect of the Iberian exception mechanism on different inflation categories for Spain and Portugal." It is advised that you take a look at the paper before you try to replicate the results (see *HaroRuiz2023.pdf*). 
 
 The following items are included;
 
